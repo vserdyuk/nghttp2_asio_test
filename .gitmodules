@@ -1,0 +1,4 @@
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/vserdyuk/vcpkg.git
+	branch = nghttp2
